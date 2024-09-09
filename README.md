@@ -1,5 +1,5 @@
 <div align=center>
-  <img src="https://skillicons.dev/icons?i=py,java,elixir,c">
+  <img src="https://skillicons.dev/icons?i=py,java,elixir,c,astro">
   <br>
 
   <img src="https://github-widgetbox.vercel.app/api/profile?username=syscallwizard&data=followers,repositories,stars,commits&theme=darkmode" width=500>
